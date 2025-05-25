@@ -1,1 +1,17 @@
-
+[
+  {
+    "id": "5918acf073d9dadb",
+    "username": "CinemaV5",
+    "password": "imran",
+    "expiresAt": "2025-09-25",
+    "allowOffline": true
+  },
+  
+  {
+    "id": "6e0551bd2e9b7218",
+    "username": "CinemaV5",
+    "password": "Aditya",
+    "expiresAt": "2025-07-25",
+    "allowOffline": true
+  }
+]
