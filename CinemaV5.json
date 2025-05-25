@@ -19,9 +19,17 @@
     "id": "0b7cb855135fc8c2",
     "username": "CinemaV5",
     "password": "Preeti",
-    "expiresAt": "2025-06-20",
+    "expiresAt": "2025-07-24",
     "allowOffline": true
   },
+
+  {
+    "id": "6e0551bd2e9b7218",
+    "username": "CinemaV5",
+    "password": "Aditya",
+    "expiresAt": "2025-07-25",
+    "allowOffline": true
+  }
   
   {
     "id": "android_device_id_2",
